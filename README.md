@@ -1,4 +1,4 @@
-![Aaqib Mehrban (1)](https://user-images.githubusercontent.com/77640905/111035427-87448c80-83e8-11eb-84c2-3d50eb5ebb5b.png)
+![Aaqib Mehrban (1)](https://github.com/aaqibmehrban/aaqibmehrban/blob/main/personal%20github%20cover.jpg)
 <h1>About Me</h1>
 <h3>Languages I Know & Use</h3>
 
