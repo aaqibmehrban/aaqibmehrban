@@ -24,7 +24,7 @@ src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&l
 <div>
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&margin-w=15&margin-h=15&theme=onedark"/>
+    <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=aaqibmehrban&column=7&margin-w=15&margin-h=15&theme=onedark"/>
   </a>
   </p>
 </div>
