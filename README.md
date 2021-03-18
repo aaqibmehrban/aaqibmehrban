@@ -77,7 +77,7 @@ src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&l
 </a> <a href="https://www.hackerearth.com/@aaqibmehrban" target="_blank">	<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/rajaaaqib775" target="_blank">	<img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth%20-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
 
-<h1> For Paid Projects! </h1>
+<h1> For Paid Projects! and Customer Reviews of My Work </h1>
 <a href="https://www.fiverr.com/aaqibmehrban" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/fiverr%20-%2300b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white"/></a>
  <a href="https://www.upwork.com/freelancers/~0181468059aaa92204" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork%20-%2373bb44.svg?&style=for-the-badge&logo=upwork&logoColor=white"/></a>
 
