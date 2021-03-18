@@ -6,8 +6,7 @@
 
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" 
 src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img alt="Python" 
-src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
 
 <h3>Services & Frameworks I Know & Use</h3>
@@ -32,21 +31,22 @@ src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&l
 <br />
 <div align="center">
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JDuggal760&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaqibmehrban&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
 
   </p>
   <p align="center">
 
-<h3 align="left">Hackathons + CTF's<h3>
+<h3 align="left">Certificates,Interest,Degree other Softwares Knowledge<h3>
   <p>
     
-    5x Tech4kidz Hackathons
-    CU hacking
-    UofThacks
-    HVtechFest
-    Snakes and Hackers
-    HackUpstate
-    2 CTF's inclucing samsung CTF and others on CTFtime
+    Machine Learning Specialization Course (Coursera)
+    Automation and Webscraping
+    BE Geo-informatics 
+    Arcmap
+    Arcpro
+    QGIS
+    Autocad
+    Erdas Imagine
     
 </p>
 
@@ -54,17 +54,22 @@ src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&l
 <p align="left">Peronsal Websites(under development)<p>
 <ul>
   
-    cryptofire.space
-    reviewdat.tech
-    pcpanel.tech
-  
+    marcalogics
+    tstplanet
+    
 </ul>
 
 <h1> Get in Touch! </h1>
-<a href="https://discord.gg/2K6yUMDQ" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
- <a href="https://www.twitch.tv/jadogasdasdsadsad" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/<handle>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
-<a href="mailto:reddyduggal@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/Optimal_Astronomer85" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a> 
- <a href="https://www.linkedin.com/in/jared-duggal-a902191b9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</a> <a href="https://reviewtech.medium.com/" target="_blank">	<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+<a href="https://discord.gg/cGnt8a9B" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+ <a href="https://www.twitch.tv/rajaaaqib" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/<handle>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
+<a href="mailto:rajaaaqib775@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/rajaaaqib775" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a> 
+ <a href="https://www.linkedin.com/in/aaqibmehrban/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</a> <a href="https://www.hackerearth.com/@aaqibmehrban" target="_blank">	<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
+<a href="https://www.hackerrank.com/rajaaaqib775" target="_blank">	<img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth%20-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
+
+
+
+
 
