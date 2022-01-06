@@ -56,7 +56,6 @@ src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&l
     QGIS
     Autocad
     Erdas Imagine
-    
 </p>
 
 
