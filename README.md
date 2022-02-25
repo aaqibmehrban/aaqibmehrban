@@ -1,4 +1,4 @@
-![Aaqib Mehrban (1)](https://github.com/aaqibmehrban/aaqibmehrban/blob/main/personal%20github%20cover.jpg)
+![Aaqib Mehrban (1)](https://github.com/aaqibmehrban/aaqibmehrban/blob/main/personal%20github%20cover%20updated.jpg)
 <h1>About Me</h1>
 <h3>Languages I Know & Use</h3>
 
