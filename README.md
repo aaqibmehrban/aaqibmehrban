@@ -31,26 +31,6 @@ src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&l
   </p>
   <p align="center">
 
-<h3 align="left">Certificates,Interest,Degree other Softwares Knowledge<h3>
-  <p>
-    
-    Machine Learning Specialization Course (Coursera)
-    Automation and Webscraping
-    BE Geo-informatics 
-    Arcmap
-    Arcpro
-    QGIS
-    Autocad
-    Erdas Imagine
-</p>
-
-
-<p align="left">Websites<p>
-<ul>
-  
-    fornextechnologies.com
-    
-</ul>
 
 <h1> Get in Touch! </h1>
 <a href="https://discord.gg/cGnt8a9B" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
